@@ -5,14 +5,14 @@ on [crowdsource](https://crowdsource.sh). These define *what* a competition asks
 participants to predict (the set of index keys) — kept here, under our control,
 rather than depending on third-party datasets that can go stale or disappear.
 
-A weekly GitHub Action ([`.github/workflows/refresh.yml`](.github/workflows/refresh.yml))
+A daily GitHub Action ([`.github/workflows/refresh.yml`](.github/workflows/refresh.yml))
 regenerates each snapshot from its upstream authority and commits only on change.
 
 ## Datasets
 
 | Path | Keys | Source | Refresh |
 | --- | --- | --- | --- |
-| [`sp500/constituents.csv`](sp500/constituents.csv) | `Symbol` (S&P 500 members) | Wikipedia — [List of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) | weekly |
+| [`sp500/constituents.csv`](sp500/constituents.csv) | `Symbol` (S&P 500 members) | Wikipedia — [List of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) | daily |
 
 `sp500/constituents.csv` columns: `Symbol, Security, GICS Sector, GICS Sub-Industry`.
 `Symbol` is the index key (matched against Massive day-aggregate tickers at resolution).
