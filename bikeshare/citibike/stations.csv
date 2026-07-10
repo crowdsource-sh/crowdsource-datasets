@@ -874,7 +874,7 @@ station_id,name,lat,lon,capacity
 2b33334b-243c-4a16-a6d2-32304c8884f1,Popham Ave & W 174 St,40.847746,-73.922079,20
 2b54cb2c-31be-4620-a13c-0fa72b58c90a,Lincoln Pl & Classon Ave,40.6721683,-73.9609,28
 2b848257-dc2e-4dd0-b840-d5e046972789,W Tremont Ave & Matthewson Rd,40.853827,-73.920765,19
-2bf9addc-038b-48fe-8794-dde085c5e5dc,E 58 St & 1 Ave (NW Corner),40.759125,-73.962658,50
+2bf9addc-038b-48fe-8794-dde085c5e5dc,E 58 St & 1 Ave (NW Corner),40.759125,-73.962658,49
 2c2cdc55-52a3-4140-b4d3-8409a98f130f,Evergreen Ave & Noll St,40.70106,-73.93318,25
 2c321ea3-e1dd-4d32-be70-bd158fe1f568,W 44 St & 11 Ave,40.762009,-73.996975,79
 2c366f4b-8319-41bf-ab8e-2fba3a952feb,W 42 St & 6 Ave,40.75492,-73.98455,54
@@ -886,7 +886,7 @@ station_id,name,lat,lon,capacity
 2ec1235f-a043-4e3a-9ba1-56f7dd4624b7,21 St & 31 Dr,40.7659,-73.930819,21
 2ec2f95c-675c-4c59-856f-1fb38df59fa2,Grand Concourse & E 192 St,40.86448,-73.89522,21
 2f580cf9-14e2-4300-ba22-f6d88d0312a5,Bedford Ave & Montgomery St,40.665816,-73.956934,27
-2f656bc4-7743-4326-8330-a22bd41d9d17,West End Ave & W 60 St,40.77237,-73.99005,37
+2f656bc4-7743-4326-8330-a22bd41d9d17,West End Ave & W 60 St,40.77237,-73.99005,39
 305c221f-4e0b-4a5a-902c-3d1043dfe606,Newton Rd & 44 St,40.7595701,-73.9142678,19
 308e055a-b8aa-447d-8803-8677c88af0ba,New York Ave & Hawthorne St,40.65794,-73.94735,20
 30985a9c-afe4-4b98-a72c-2c72bb35603e,Greene Ave & Grandview Ave,40.709697,-73.907856,17
@@ -1037,7 +1037,7 @@ station_id,name,lat,lon,capacity
 4c3b6e25-b0c2-4a3f-b07e-cd60cd1b0ac0,Anthony Ave & E Tremont Ave,40.848793,-73.903178,20
 4cd5a87d-7618-4a15-892d-8cf29eec865c,Tyler Ave & Maurice Ave,40.73394,-73.90128,19
 4cfd4097-0aee-4f11-9aea-55f99397bf33,Irving Ave & Halsey St,40.69467,-73.90663,19
-4d24ab76-2f4a-4004-9fc5-09c00c1d9aa4,5 Ave & 37 St,40.652657,-74.002356,29
+4d24ab76-2f4a-4004-9fc5-09c00c1d9aa4,5 Ave & 37 St,40.652657,-74.002356,30
 4d4a3e7b-1005-4bfd-8680-340a20cacbee,Vernon Blvd & 31 Ave,40.7692475,-73.9354504,23
 4d674595-187c-417c-a691-676c4446c9fc,Southern Blvd & E 142 St,40.807347437082,-73.90809774398804,23
 4d79bdb9-7c35-4d35-9f6e-3c1b849c453a,W 110 St & Amsterdam Ave,40.802692,-73.96295,45
@@ -1178,7 +1178,7 @@ station_id,name,lat,lon,capacity
 66db2953-0aca-11e7-82f6-3863bb44ef7c,Park Ave & St Edwards St,40.69608941,-73.97803415,53
 66db29e6-0aca-11e7-82f6-3863bb44ef7c,Lexington Ave & Classon Ave,40.68676793,-73.95928168,19
 66db2a71-0aca-11e7-82f6-3863bb44ef7c,Barrow St & Hudson St,40.73172428,-74.00674436,45
-66db2afe-0aca-11e7-82f6-3863bb44ef7c,MacDougal St & Prince St,40.72710258,-74.00297088,47
+66db2afe-0aca-11e7-82f6-3863bb44ef7c,MacDougal St & Prince St,40.72710258,-74.00297088,56
 66db2d2b-0aca-11e7-82f6-3863bb44ef7c,Clinton St & Joralemon St,40.69239502,-73.99337909,50
 66db2db5-0aca-11e7-82f6-3863bb44ef7c,Nassau St & Navy St,40.69839895,-73.98068914,58
 66db2e3a-0aca-11e7-82f6-3863bb44ef7c,Hudson St & Reade St,40.71625008,-74.0091059,55
@@ -1588,7 +1588,7 @@ station_id,name,lat,lon,capacity
 66dde69c-0aca-11e7-82f6-3863bb44ef7c,6 St & 7 Ave,40.6686627,-73.97988067,21
 66dde703-0aca-11e7-82f6-3863bb44ef7c,Warren St & Court St,40.686371,-73.99383324,31
 66dde76a-0aca-11e7-82f6-3863bb44ef7c,E 98 St & Park Ave,40.78813,-73.95206,25
-66dde7dc-0aca-11e7-82f6-3863bb44ef7c,Prospect Park West & 8 St,40.66514681533792,-73.97637605667114,25
+66dde7dc-0aca-11e7-82f6-3863bb44ef7c,Prospect Park West & 8 St,40.66514681533792,-73.97637605667114,24
 66dde845-0aca-11e7-82f6-3863bb44ef7c,Columbus Ave & W 95 St,40.7919557,-73.968087,39
 66dde8ac-0aca-11e7-82f6-3863bb44ef7c,Columbus Ave & W 103 St,40.7969347,-73.9643412291,40
 66dde914-0aca-11e7-82f6-3863bb44ef7c,Butler St & Court St,40.6849894,-73.99440329,35
@@ -1968,7 +1968,7 @@ station_id,name,lat,lon,capacity
 9e014047-d675-418b-a03c-84d974a25134,Broadway & W 168 St,40.84089603193041,-73.93972098827362,31
 9e0b3452-ef6d-4e94-8c05-7bef199cdb74,49 Ave & 21 St,40.74252,-73.948852,21
 9e3603ee-2b7d-4147-a7b5-48bbd778902c,Forsyth St & Grand St,40.71779817737835,-73.99316132068634,63
-9e5fd5b6-c5f2-4694-9406-a44b7d0146d9,Kenmare St & Elizabeth St,40.72054,-73.9949,37
+9e5fd5b6-c5f2-4694-9406-a44b7d0146d9,Kenmare St & Elizabeth St,40.72054,-73.9949,54
 9e99abca-c679-4788-9a4e-39066660bd6a,Crescent St & Ditmars Blvd,40.7787185,-73.9145645,19
 9e9acfaf-0bbf-4bc2-a825-b2befb6bee55,8 Ave & W 27 St,40.747968,-73.996637,33
 9ea2afff-a146-4824-89b6-39d5bdfac795,Grand Ave & Remsen Pl,40.72353,-73.89967,21
@@ -2427,7 +2427,7 @@ fa14408f-6e88-4668-86ee-ce10ea707f36,Hudson St & N Moore St,40.719887998,-74.008
 fac701fb-c433-496e-933b-ea137dbe7fe1,Andrew Ave N & Hall of Fame Tce,40.85834,-73.91008,19
 facb0195-8daa-46e3-95e1-6f22fb678e8a,Prospect Ave & Jennings St,40.831762,-73.896853,20
 fadf00cf-d84a-49e8-9607-c67154915412,Columbus Park - Clinton St & 9 St,40.74816121065146,-74.0324530005455,26
-faf021ad-9de5-44bd-b7f5-48127e8d5fea,Metropolitan Ave & Vandervoort Ave,40.71429,-73.93323,24
+faf021ad-9de5-44bd-b7f5-48127e8d5fea,Metropolitan Ave & Vandervoort Ave,40.71429,-73.93323,13
 faf98f78-51ab-4248-b7e7-f402902385a6,65 St & Broadway,40.749372273899596,-73.89738768339157,18
 fb180cce-96ee-4e66-b3ce-000f3db6e670,Eastern Pkwy & Kingston Ave,40.66959,-73.94237,30
 fbaffdbd-dab5-4127-9bd5-36bf58093ea8,9 Ave & W 204 St,40.86169883507865,-73.91855701804161,24
